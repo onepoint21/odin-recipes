@@ -1,0 +1,19 @@
+body {
+    background-color: lightgrey;
+    margin: 0;
+}
+
+.index-page-title {
+    font-size: 32px;
+    text-align: center;
+    background-color: coral;
+    padding: 8px;
+    margin: 8px;
+}
+
+.recipe-list {
+    font-size: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    max-width: fit-content;
+    margin-left: 564.11px;
+}
