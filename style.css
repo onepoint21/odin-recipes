@@ -1,19 +1,24 @@
 body {
-    background-color: lightgrey;
+    background-color: white;
     margin: 0;
 }
 
 .index-page-title {
-    font-size: 32px;
+    font-size: 48px;
     text-align: center;
-    background-color: coral;
+    background-color: lightgrey;
+    color: black;
+    border: 2px solid black;
     padding: 8px;
     margin: 8px;
 }
 
 .recipe-list {
     font-size: 24px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    max-width: fit-content;
-    margin-left: 564.11px;
+    text-align: center;
+    background-color: lightgrey;
+    color: black;
+    border: 2px solid black;
+    padding: 8px;
+    margin: 8px;
 }
